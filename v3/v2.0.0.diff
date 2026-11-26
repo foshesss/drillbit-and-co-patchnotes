@@ -33,7 +33,6 @@ CHANGES:
 + Moved Leaderboards to the center of the map [X]
 + Removed all boxes in the game, replaced with 'Regular', 'Unreal', and 'Magnificent'. All 3 can be found by opening crates around the map and rebirthing.
 
-+ Rebirth Formula has been rewritten to make rebirthing slightly easier
 + Rebirth prices have been DRASTICALLY decreased at lower lives. While the original prices were possible, these changes accomodate a younger player base learning the early game. All other Rebirth prices will remain the same. [X]
 ! Life 1 - 100k
 ! Life 2 - 25M
