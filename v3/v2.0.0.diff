@@ -25,15 +25,15 @@ CHANGES:
 + Performance fixes [X]
 + Changed the tree models on the map to use less parts. [X]
 + Lighting slightly modified so the game is brighter. [X]
-+ Rebirth Formula has been rewritten to make rebirthing slightly easier
 + Revamped entire UI
 + Each item has an image icon now (no longer viewports)
 + On PC and Console, you can now remap your keybinds to whatever you'd like
     + Miner's Haven players will have the option to use Miner's Haven keybinds
-+ Many items got refreshed looks (some examples include: Ore Wash, Nature's Touch, Toxic Wasteland)
-+ Moved Leaderboards to the center of the map
++ Many items got refreshed looks (some examples include: Ore Wash, Nature's Touch, Toxic Wasteland) [X]
++ Moved Leaderboards to the center of the map [X]
 + Removed all boxes in the game, replaced with 'Regular', 'Unreal', and 'Magnificent'. All 3 can be found by opening crates around the map and rebirthing.
 
++ Rebirth Formula has been rewritten to make rebirthing slightly easier
 + Rebirth prices have been DRASTICALLY decreased at lower lives. While the original prices were possible, these changes accomodate a younger player base learning the early game. All other Rebirth prices will remain the same. [X]
 ! Life 1 - 100k
 ! Life 2 - 25M
