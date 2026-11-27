@@ -55,10 +55,10 @@ CHANGES:
 - Removed Tole Tole mode from the game [X]
 
 BUILD MODE:
-+ On PC, you can now hold Ctrl when clicking to box select
-+ You can now place upgraders on top of eachother and it'll automatically replace
-+ Axis-binding will now show you which axis you're placing on
-+ Undo/Redo have been added
++ On PC, you can now hold Ctrl when clicking to box select [X]
++ You can now place upgraders on top of eachother and it'll automatically replace [X]
++ Axis-binding will now show you which axis you're placing on [X]
++ Undo/Redo have been added [X]
 + You can now save up to three layouts per base
 		
 PREMIUM ITEMS:
