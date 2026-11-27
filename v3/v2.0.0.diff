@@ -26,7 +26,7 @@ CHANGES:
 + Changed the tree models on the map to use less parts. [X]
 + Lighting slightly modified so the game is brighter. [X]
 + Revamped entire UI
-+ Each item has an image icon now (no longer viewports)
++ Each item has an image icon now (no longer viewports) [X]
 + On PC and Console, you can now remap your keybinds to whatever you'd like
     + Miner's Haven players will have the option to use Miner's Haven keybinds
 + Many items got refreshed looks (some examples include: Ore Wash, Nature's Touch, Toxic Wasteland) [X]
